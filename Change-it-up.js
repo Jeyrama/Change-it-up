@@ -22,3 +22,5 @@ const changer = str =>
     .toLowerCase()
     .replace(/[a-z]/g, m => String.fromCharCode((m.charCodeAt(0) - 96) % 26 + 97)) 
     .replace(/[aeiou]/g, m => m.toUpperCase())
+
+// or
