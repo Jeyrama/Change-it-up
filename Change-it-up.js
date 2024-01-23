@@ -13,3 +13,6 @@ Note:
   the alphabet should wrap around, so Z becomes A
   in this kata, y isn't considered as a vowel.
 */
+
+
+// Solution
